@@ -1,0 +1,9 @@
+.header__links{
+  display: inline-block;
+  flex-direction: row;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  align-self: center;
+}
