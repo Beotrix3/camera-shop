@@ -1,0 +1,9 @@
+.banner{
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  background-image: url(../../images/banner.jpg);
+  background-repeat: no-repeat;
+  max-width: 1380px;
+  height: 550px;
+}

@@ -1,0 +1,8 @@
+.banner__title{
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  bottom: 50px;
+  left: 135px;
+  z-index: 2;
+}
