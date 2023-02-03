@@ -1,0 +1,7 @@
+.pricing__card-iconblock{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 21px;
+  right: 24px;
+}

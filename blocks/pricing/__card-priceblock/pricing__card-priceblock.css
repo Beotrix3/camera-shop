@@ -1,0 +1,20 @@
+.pricing__card-priceblock{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #EFEFEF;
+  grid-area: priceblock-one;
+  align-items: center;
+  justify-content: center;
+}
+
+.pricing__card-priceblock:nth-child(2){
+  grid-area: priceblock-two;
+}
+
+.pricing__card-priceblock:nth-child(3){
+  grid-area: priceblock-three;
+}
+
+.pricing__card-priceblock:nth-child(4){
+  grid-area: priceblock-four;
+}

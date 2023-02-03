@@ -1,0 +1,8 @@
+.pricing__card-container{
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #EFEFEF;
+  grid-area: container;
+}

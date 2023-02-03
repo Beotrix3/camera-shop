@@ -28,3 +28,22 @@
 @import url(../blocks/features-one/__container/features-one__container.css);
 @import url(../blocks/features-one/__icon/features-one__icon.css);
 @import url(../blocks/features-one/__text/features-one__text.css);
+
+@import url(../blocks/pricing/pricing.css);
+@import url(../blocks/pricing/__title/pricing__title.css);
+@import url(../blocks/pricing/__arrowleft/pricing__arrowleft.css);
+@import url(../blocks/pricing/__arrowright/pricing__arrowright.css);
+@import url(../blocks/pricing/__cards/pricing__cards.css);
+@import url(../blocks/pricing/__card/pricing__card.css);
+@import url(../blocks/pricing/__card-container/pricing__card-container.css);
+@import url(../blocks/pricing/__card-iconblock/pricing__card-iconblock.css);
+@import url(../blocks/pricing/__icon/pricing__icon.css);
+@import url(../blocks/pricing/__card-photo/pricing__card-photo.css);
+@import url(../blocks/pricing/__card-type/pricing__card-type.css);
+@import url(../blocks/pricing/__card-name/pricing__card-name.css);
+@import url(../blocks/pricing/__card-priceblock/pricing__card-priceblock.css);
+@import url(../blocks/pricing/__card-price/pricing__card-price.css);
+@import url(../blocks/pricing/__card-period/pricing__card-period.css);
+@import url(../blocks/pricing/__card-buttons/pricing__card-buttons.css);
+@import url(../blocks/pricing/__card-button/pricing__card-button.css);
+@import url(../blocks/pricing/__card-icon/pricing__card-icon.css);

@@ -1,0 +1,20 @@
+.pricing__card-button{
+  width: 140px;
+  height: 40px;
+  border: none;
+  border-radius: 100px;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.15);
+  background: #FFFFFF;
+  margin-right: 20px;
+}
+
+.pricing__card-button:last-of-type{
+  color: #FFFFFF;
+  margin-right: 0;
+  background: linear-gradient(180deg, #8EE902 0%, #4F9C2C 100%);
+}

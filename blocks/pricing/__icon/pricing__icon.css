@@ -1,0 +1,7 @@
+.pricing__icon{
+  margin-bottom: 17.57px;
+}
+
+.pricing__icon:last-of-type{
+  margin-bottom: 0;
+}

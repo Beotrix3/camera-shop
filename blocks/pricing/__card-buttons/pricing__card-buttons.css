@@ -1,0 +1,8 @@
+.pricing__card-buttons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 25px 0;
+  border: 1px solid #EFEFEF;
+  grid-area: buttons;
+}

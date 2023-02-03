@@ -1,0 +1,17 @@
+.pricing__card{
+  width: 350px;
+  height: 410px;
+  /* align-items: center; */
+  margin-right: 30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 259px 70px 81px;
+  grid-template-areas:
+  "container container container container"
+  "priceblock-one priceblock-two priceblock-three priceblock-four"
+  "buttons buttons buttons buttons";
+}
+
+.pricing__card:last-of-type{
+  margin-right: 0;
+}
