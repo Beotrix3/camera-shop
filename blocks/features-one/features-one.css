@@ -1,0 +1,9 @@
+.features-one{
+  max-width: 1380px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #F5F5F5;
+  margin: 0 auto;
+  padding: 44px 0 46px;
+}
