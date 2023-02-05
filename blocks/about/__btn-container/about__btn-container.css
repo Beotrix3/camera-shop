@@ -1,0 +1,5 @@
+.about__btn-container{
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 80px;
+}

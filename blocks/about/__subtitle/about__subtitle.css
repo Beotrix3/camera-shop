@@ -1,0 +1,16 @@
+.about__subtitle{
+  width: 570px;
+  margin: 0;
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  color: #75758A;
+  text-align: center;
+  padding: 24px 0 17px;
+}
+
+.about__subtitle span{
+  color: black;
+}
