@@ -47,3 +47,9 @@
 @import url(../blocks/pricing/__card-buttons/pricing__card-buttons.css);
 @import url(../blocks/pricing/__card-button/pricing__card-button.css);
 @import url(../blocks/pricing/__card-icon/pricing__card-icon.css);
+
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/about/__btn-container/about__btn-container.css);
+@import url(../blocks/about/__btn/about__btn.css);
