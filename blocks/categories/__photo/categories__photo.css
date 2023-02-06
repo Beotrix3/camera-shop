@@ -1,0 +1,26 @@
+.categories__photo{
+  display: flex;
+  position: relative;
+  background-image: url(../../../images/photo.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  grid-area: photo1;
+}
+
+.categories__photo:nth-child(2){
+  grid-area: photo2;
+}
+
+.categories__photo:nth-child(3){
+  grid-area: photo3;
+}
+
+.categories__photo:nth-child(4){
+  background-image: url(../../../images/photo2.jpg);
+  grid-area: photo4;
+}
+
+.categories__photo:nth-child(5){
+  grid-area: photo5;
+}

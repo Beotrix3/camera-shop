@@ -1,0 +1,7 @@
+.categories__title{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 25px;
+  left: 25px;
+}
