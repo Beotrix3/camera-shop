@@ -1,0 +1,16 @@
+.news__btn{
+  background: linear-gradient(180deg, #8EE902 0%, #4F9C2C 100%);
+  border-radius: 100px;
+  color: white;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  margin: 40px 0 100px;
+  border: none;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+}

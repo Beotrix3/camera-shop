@@ -70,3 +70,14 @@
 @import url(../blocks/features-two/__text/features-two__text.css);
 @import url(../blocks/features-two/__icon/features-two__icon.css);
 @import url(../blocks/features-two/__btn/features-two__btn.css);
+
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__name/news__name.css);
+@import url(../blocks/news/__cards/news__cards.css);
+@import url(../blocks/news/__card/news_card.css);
+@import url(../blocks/news/__pic/news__pic.css);
+@import url(../blocks/news/__card-container/news__card-container.css);
+@import url(../blocks/news/__date/news__date.css);
+@import url(../blocks/news/__title/news__title.css);
+@import url(../blocks/news/__subtitle/news__subtitle.css);
+@import url(../blocks/news/__btn/news__btn.css);

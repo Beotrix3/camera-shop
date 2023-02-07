@@ -1,0 +1,11 @@
+.news__card{
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin-right: 30px;
+  border: 1px solid #EFEFEF;
+}
+
+.news__card:last-of-type{
+  margin-right: 0;
+}
