@@ -81,3 +81,13 @@
 @import url(../blocks/news/__title/news__title.css);
 @import url(../blocks/news/__subtitle/news__subtitle.css);
 @import url(../blocks/news/__btn/news__btn.css);
+
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/contact/__title/contact__title.css);
+@import url(../blocks/contact/__cards/contact__cards.css);
+@import url(../blocks/contact/__card/contact__card.css);
+@import url(../blocks/contact/__card-container/contact__card-container.css);
+@import url(../blocks/contact/__icon/contact__icon.css);
+@import url(../blocks/contact/__name/contact__name.css);
+@import url(../blocks/contact/__address/contact__address.css);
+@import url(../blocks/contact/__link/contact__link.css);
