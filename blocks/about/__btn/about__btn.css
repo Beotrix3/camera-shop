@@ -6,7 +6,8 @@
   border-radius: 100px;
   background: linear-gradient(180deg, #8EE902 0%, #4F9C2C 100%);
   color: white;
-  font-family: 'Ubuntu';
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;

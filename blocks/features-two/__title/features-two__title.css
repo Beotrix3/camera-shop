@@ -1,8 +1,10 @@
-.pricing__card-price{
+.features-two__title{
   margin: 0;
   font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 20px;
+  text-align: center;
+  padding: 96px 0 24px;
 }

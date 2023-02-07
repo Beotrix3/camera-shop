@@ -1,9 +1,11 @@
-.pricing__card-name{
+.features-two__subtitle{
   margin: 0;
   font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 26px;
-  color: #75758A;
+  width: 470px;
+  padding-bottom: 37px;
+  text-align: center;
 }

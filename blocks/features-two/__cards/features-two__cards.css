@@ -1,0 +1,4 @@
+.features-two__cards{
+  display: flex;
+  flex-direction: row;
+}

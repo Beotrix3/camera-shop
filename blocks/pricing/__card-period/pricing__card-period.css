@@ -1,6 +1,7 @@
 .pricing__card-period{
   margin: 0;
-  font-family: 'Ubuntu';
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
