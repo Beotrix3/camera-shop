@@ -1,8 +1,9 @@
 .subscribe{
   max-width: 1380px;
+  margin: 0 auto;
+  padding: 16px 0 16px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 16px 229px 16px 135px;
   background: #515668;
 }
