@@ -1,0 +1,14 @@
+.subscribe__btn{
+  width: 160px;
+  height: 40px;
+  background: #4F9C2C;
+  color: white;
+  border: none;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
