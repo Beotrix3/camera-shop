@@ -1,0 +1,10 @@
+.footer__container{
+  display: inline;
+  flex-direction: column;
+  padding-left: 135px;
+}
+
+.footer__container:last-of-type{
+  padding-left: 0;
+  padding-right: 135px;
+}
